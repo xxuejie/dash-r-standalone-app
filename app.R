@@ -1,3 +1,4 @@
+# Adapted from https://dash.plotly.com/r/layout
 library(dash)
 # library(dashCoreComponents)
 
